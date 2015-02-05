@@ -10,7 +10,7 @@ Requires [brew](http://brew.sh/) and will install it if it isn't found.
 
 ## With [curl](http://curl.haxx.se/) do
 
-    curl -L https://raw.github.com/thlorenz/docmac/master/bin/docmac.sh | sh
+    curl -L https://raw.github.com/bwestrich/docmac/master/bin/docmac.sh | sh
 
 ![docmac](https://raw.github.com/bwestrich/docmac/master/assets/docmac.png)
 
